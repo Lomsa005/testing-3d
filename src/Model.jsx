@@ -36,8 +36,8 @@ const Scene = () => {
         enablePan={true}
         enableZoom={true}
         enableRotate={true}
-        minDistance={14}
-        maxDistance={14}
+        // minDistance={14}
+        // maxDistance={14}
         target={[0, 0, 0]}
       />
       
